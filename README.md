@@ -16,6 +16,7 @@ I am Samuel Mugo an aspiring Backend Developer from Nairobi, Kenya.
 - 📫 How to reach me: ... [mugosam95@gmail.com](mailto:mugosam95@gmail.com)
 - ⚡ Fun fact: ... 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mugo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mugo)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
 
 
