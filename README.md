@@ -13,6 +13,7 @@ I am Samuel Mugo an aspiring Backend Developer from Nairobi, Kenya.
 - 👯 I’m looking to collaborate on ... Python based projects
 - 🤔 I’m looking for help with ... Data Structures and Algorithms
 - 💬 Ask me about ... work, dev journey, life in general
+- 💼 Interested in ... Internships, Junior Dev Roles
 - 📫 How to reach me: ... [mugosam95@gmail.com](mailto:mugosam95@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mugo&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
