@@ -8,7 +8,7 @@ I am Samuel Mugo an aspiring Backend Developer from Nairobi, Kenya.
 
 
 
-- 🔭 I’m currently working on ...[Fontaine](https://github.com/sam-mugo/Fontaine)
+- 🔭 I’m currently working on ...[Codacy](https://github.com/sam-mugo/codacy)
 - 🌱 I’m currently learning ... Django Web Development
 - 👯 I’m looking to collaborate on ... Python based projects
 - 🤔 I’m looking for help with ... Data Structures and Algorithms
