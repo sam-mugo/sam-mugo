@@ -2,7 +2,7 @@
 
 [![@sammugo's Holopin board](https://holopin.me/sammugo)](https://holopin.io/@sammugo)
 
-I am Samuel Mugo an aspiring Backend Developer from Nairobi, Kenya.
+I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 
 <!--
 **sam-mugo/sam-mugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
