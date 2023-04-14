@@ -11,7 +11,7 @@ I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 
 
 - 🔭 I’m currently working on ...[Program](https://github.com/sam-mugo/program)
-- 🌱 I’m currently learning ... React Native and Scala
+- 🌱 I’m currently learning ... FastAPI
 - 👯 I’m looking to collaborate on ... Django based projects
 - 🤔 I’m looking for help with ... Atomic Transactions
 - 💬 Ask me about ... work, dev journey, life in general
