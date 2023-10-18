@@ -22,12 +22,12 @@ I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-Total Time: 7 mins
+Total Time: 4 mins
 
-Markdown   5 mins          ██████████████████░░░░░░░   71.52 %
-Python     2 mins          ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Python     2 mins          █████████████▓░░░░░░░░░░░   54.79 %
+Markdown   1 min           ███████████▒░░░░░░░░░░░░░   45.21 %
 ```
 
 <!--END_SECTION:waka-->
