@@ -18,16 +18,6 @@ I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 - 📫 How to reach me: ... [mugosam95@gmail.com](mailto:mugosam95@gmail.com)
 
 -------
-**Wakatime stats**
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 October 2023 - To: 22 October 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
