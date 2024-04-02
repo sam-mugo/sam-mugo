@@ -10,8 +10,8 @@ I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 
 
 
-- 🔭 I’m currently working on ...[Program](https://github.com/sam-mugo/program)
-- 🌱 I’m currently learning ... Kafka driven design
+- 🔭 I’m currently working on ...[Program](https://github.com/sam-mugo/Odoo-Insights)
+- 🌱 I’m currently learning ... Designing Data-Intensive Systems
 - 👯 I’m looking to collaborate on ... Cool open source projects
 - 💬 Ask me about ... work, dev journey, and life in general
 - 💼 Interested in ... Backend Developer Roles in Python (Django, Odoo ERP)
