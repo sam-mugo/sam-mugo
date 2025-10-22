@@ -13,7 +13,7 @@ I am Samuel Mugo a Backend Developer from Nairobi, Kenya.
 
 
 - 🔭 I’m currently working on ...[purchase approval workflow](https://github.com/sam-mugo/Odoo_Purchase_Approval_Workflow)
-- 🌱 I’m currently learning ... Designing Data-Intensive Systems
+- 🌱 I’m currently learning ... Oracle Cloud Infrastructure
 - 👯 I’m looking to collaborate on ... Cool open source projects
 - 💬 Ask me about ... work, dev journey, and life in general
 - 💼 Interested in ... Backend Developer Roles in Python (Django, Odoo ERP)
